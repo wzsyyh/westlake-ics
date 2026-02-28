@@ -1,5 +1,7 @@
 # westlake-ics
 
+[English](README_EN.md)
+
 将西湖大学教务系统（SIS）的课程表自动转换为主流日历格式。
 
 | 脚本 | 输出 | 适用 |
