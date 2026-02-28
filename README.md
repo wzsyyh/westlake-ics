@@ -32,7 +32,7 @@ cd westlake-ics
 
 ### 第二步：从 SIS 下载课程表
 
-1. 登录 [SIS 系统](https://sis.westlake.edu.cn)
+1. 打开 [SIS 选课系统](https://sis.westlake.edu.cn/psc/CSPRD_3/EMPLOYEE/SA/c/SSR_STUDENT_FL.SSR_MD_SP_FL.GBL?Action=U&MD=Y&GMenu=SSR_STUDENT_FL&GComp=SSR_START_PAGE_FL&GPage=SSR_START_PAGE_FL&scname=CS_SSR_MANAGE_CLASSES_NAV)（需登录校园账号）
 2. 左侧菜单点击 **查看我的课表**
 3. 选择顶部 **按课程** 标签页
 4. 点击页面**右上角的下载按钮**（见下图红框）
